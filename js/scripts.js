@@ -9,7 +9,6 @@ function newItem (){
     } else {
       $('#list').append(li);
     }
-}
 
 //2. Striking through an item:
 function crossOut () {
